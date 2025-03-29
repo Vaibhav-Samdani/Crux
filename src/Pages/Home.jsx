@@ -7,7 +7,7 @@ import NavSidebar from "../components/sidebar/NavSidebar";
 
 const Home = () => {
   return (
-    <div className="pt-30 mx-20 ">
+    <div className="mx-20 pt-30 ">
       <div className="flex">
         <div className="bg-blue-800 w-[1200px] rounded-xl p-4 mb-4">
           <Alert />

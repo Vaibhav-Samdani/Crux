@@ -40,7 +40,7 @@ const items = [
   },
 ];
 
-export function NavSidebar() {
+export default function NavSidebar() {
   return (
     <Sidebar>
       <SidebarContent>
